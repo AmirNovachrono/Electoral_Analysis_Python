@@ -1,5 +1,5 @@
 # Geospatial_Data_Analysis_Python
-*Extended Abstract
+*Extended Abstract*
 
 A geospatial data analysis is discussed in this repository. 
 
@@ -11,6 +11,6 @@ The voting population have been plotted against the electoral wards. It is obser
 
 The number of polling units have also been plotted against the electoral wards. It is observed that ADERUPOKO/IJEBU QTRS has the highest number of polling units, closely followed by ADEKUNLE/AIYETORO. MAKOKO has the lowest number of polling units. 
 
-*Conclusion
+*Conclusion*
 
 In this work, geospatial data on voting population, polling units, and electoral wards have been analyzed and visualized. It was observed that ABULE OJA had the highest number of voters, followed by ALAGOMEJI, and ABULE IJESHA had the lowest number of voters. ADERUPOKO/IJEBU QTRS had the highest number of polling units, closely followed by ADEKUNLE/AIYETORO, and Makoko had the lowest number of polling units. Makoko having the lowest number of polling unit and still managed to have the fourth highest number of voters, proves that if more polling units are established in Makoko electoral ward, the voting poplulation is likely to increase significantly.
